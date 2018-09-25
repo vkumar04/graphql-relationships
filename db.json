@@ -8,8 +8,8 @@
     },
     {
       "id": "40",
-      "firstName": "Alex",
-      "age": 40,
+      "firstName": "Alexa",
+      "age": 23,
       "companyId": "2"
     },
     {
@@ -22,11 +22,6 @@
       "firstName": "Vick",
       "age": 29,
       "id": "qbtZLWm"
-    },
-    {
-      "firstName": "mark",
-      "age": 34,
-      "id": "sOTa6q8"
     }
   ],
   "companies": [
